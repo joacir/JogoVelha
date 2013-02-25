@@ -1,5 +1,5 @@
-Coding Dojo
-===========
+Coding Dojo: Jogo da Velha
+==========================
 
 - Linguagem: PHP
 - Autor: Grupo de pesquisa da Etec de Marília/SP
